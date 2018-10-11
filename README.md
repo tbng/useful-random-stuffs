@@ -1,3 +1,3 @@
 # useful-random-stuffs
 
-Contains stuffs that I find mildly interesting.
+Stuffs I find mildly interesting.
